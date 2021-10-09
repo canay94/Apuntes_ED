@@ -8,3 +8,5 @@
 - Subirlo al repositorio.
 - Generación de un programa con Python Jupyter 
 - Actualizar el repositorio
+- Checar el estado del repositorio
+- Sincronizar el repositorio con la copia local
